@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Java project
 <br>👯 I’m looking to collaborate on webapplication
-<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<br>🤝 I’m looking for help with job <br>🌱 I’m currently learning springboot<br>💬 Ask me about java<br>
 
 
 ## 🌐 Socials:
